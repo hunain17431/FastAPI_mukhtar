@@ -39,3 +39,13 @@ Actualitzar un objecte (sigui una lletra o canvi sencer) de la list.
 <img src="Captures/Act-4b.png">
 
 <img src="Captures/Act-4c.png">
+
+## ACTIVITAT-6 DELETE
+
+Eliminar un usuari de la list.
+
+<img src="Captures/Act-6a.png">
+
+<img src="Captures/Act-6b.png">
+
+<img src="Captures/Act-6c.png">
