@@ -1,1 +1,1 @@
-# SE DEJA VACIO
+# Deixem l'arxiu init buit per convertir la carpeta models en un paquet de Python

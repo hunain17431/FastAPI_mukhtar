@@ -1,1 +1,5 @@
-// Aqui va la parte de requeriments.txt
+fastapi
+sqlmodel
+psycopg2-binary
+python-dotenv
+uvicorn
